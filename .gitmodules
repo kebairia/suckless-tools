@@ -1,9 +1,0 @@
-[submodule "st"]
-	path = st
-    url = https://git.suckless.org/st
-[submodule "dmenu"]
-	path = st
-    url = https://git.suckless.org/dmenu
-[submodule "bgs"]
-	path = bgs
-	url = https://github.com/Gottox/bgs
